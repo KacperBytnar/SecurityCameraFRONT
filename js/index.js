@@ -1,4 +1,4 @@
-const baseUri = "http://localhost:5203/CameraAPI"
+const baseUri = "https://securitycamerawebapi20221215134018.azurewebsites.net"
 
 Vue.createApp({
     data() {
